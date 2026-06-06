@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     cursor: pointer;
-    font-family: 'Gilroy', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+    font-family: Gilroy;
 }
 
 html, body {
